@@ -141,3 +141,15 @@ Sample project for Accura-tech
 
 ```
 
+## Error Messaging format
+
+```
+{
+    "statusCode": 500,
+    "timestamp": "2024-07-05T01:36:45.815+00:00",
+    "message": "No existing hotel records!",
+    "description": "uri=/hotel/8"
+}
+
+```
+
