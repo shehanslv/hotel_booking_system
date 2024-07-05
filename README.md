@@ -1,4 +1,4 @@
-# hotel_booking_system
+# Hotel_Booking_system
 Sample project for Accura-tech
 
 ## Rest API endpoints
